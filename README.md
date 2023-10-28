@@ -12,6 +12,6 @@ Murliana - 120140076
 Pada Tambah produk baru user dapat mengisikan Nama produk, Harga produk, Gambar produk, dan Stock
 - Jika diklik Keranjang maka akan menampilkan produk apa saja yang sudah diklik "add to chart"
 - Pada produk terdapat 3 bottom yaitu Hapus, Edit, Add to chart
-  *Hapus digunakan untuk menghapus produk
-  *Edit digunakan untuk mengedit produk yang dapat mengubah Nama produk, Harga produk, Gambar produk, dan Stock
-  *Add to chart apabila diklik maka produk secara otomatis masuk ke dalam halaman keranjang
+  -Hapus digunakan untuk menghapus produk
+  -Edit digunakan untuk mengedit produk yang dapat mengubah Nama produk, Harga produk, Gambar produk, dan Stock
+  -Add to chart apabila diklik maka produk secara otomatis masuk ke dalam halaman keranjang
