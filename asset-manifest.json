@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UTS-PWL-RB/static/css/main.6ccd65a8.css",
+    "main.js": "/UTS-PWL-RB/static/js/main.595002c2.js",
+    "static/js/787.2d6a6380.chunk.js": "/UTS-PWL-RB/static/js/787.2d6a6380.chunk.js",
+    "index.html": "/UTS-PWL-RB/index.html",
+    "main.6ccd65a8.css.map": "/UTS-PWL-RB/static/css/main.6ccd65a8.css.map",
+    "main.595002c2.js.map": "/UTS-PWL-RB/static/js/main.595002c2.js.map",
+    "787.2d6a6380.chunk.js.map": "/UTS-PWL-RB/static/js/787.2d6a6380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.595002c2.js"
+  ]
+}
